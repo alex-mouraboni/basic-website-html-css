@@ -1,0 +1,33 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    font-family: Arial;
+}
+
+.top-bar {
+    color: #ffffff;
+    font-size: 10px;
+    background-color: #202020;
+    height: 39px;
+    display: flex;
+    padding-left: 75px;
+    align-items: center;
+}
+
+.navbar {
+    background-color: #efefef;
+    height: 96px;
+}
+
+.icons {
+    margin-left: auto;
+    padding-right: 90px;
+}
+
+.icons i {
+    font-size: 14px;
+    padding-left: 8px;
+}
